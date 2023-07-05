@@ -32,9 +32,10 @@ This repository presents some dashboards and analyses made using the Power BI so
 
 1. Credit card spending habits in India
 2. HR Analytics
-3. ptiveriance Company Sales Analysis
-4. Titanic Survival Analysis
-5. Waiter’s Tip Analysis
+3. LinkedIn Profile Analysis
+4. Optiveriance Company Sales Analysis
+5. Titanic Survival Analysis
+6. Waiter’s Tip Analysis
 
 
 
