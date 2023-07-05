@@ -1,0 +1,14 @@
+Category,Type of inference,Description,Inference
+Career inferences,Job seeker,Based on your activity on LinkedIn and other factors.,No
+Career inferences,Human resources professional,Based on factors such as your industry and profile headline.,No
+Career inferences,People leader,People leader at your company. Based on your experience on your profile and other factors.,No
+Career inferences,Sales professional,Based on factors such as your experience and profile headline.,No
+Career inferences,Recruiter,Based on factors such as your experience and profile headline.,No
+Career inferences,Growth stage of career,Based on factors such as your industry and experience on your profile.,No
+Career inferences,Student,Based on your education on your profile and other factors.,Yes
+Career inferences,Small or medium sized business owner,"Based on your current company on your profile, your job title, and other factors.",No
+Career inferences,Early stage of career,Early stage of career but not a student. Based on factors such as your industry and experience on your profile.,No
+Career inferences,Senior leader,Executive leader at your company. Based on your experience on your profile and other factors.,No
+Inferred personal characteristics,Inferred gender,Based on your first name and other factors.,"[WrappedArray(FEMALE),WrappedArray(1.0)]"
+Inferred personal characteristics,Inferred birth year,Based on the years of experience on your profile and other factors.,"[WrappedArray(1997),WrappedArray(1.0)]"
+Job search inferences,Interested in a new job,Based on whether you searched for a job or clicked on a posting in the past 30 days.,true
